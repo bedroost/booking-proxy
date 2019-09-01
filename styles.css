@@ -102,8 +102,8 @@ input, button {
 }
 
 @media (max-width: 768px) {
-  #style__galleryBigImage___HTRYl, .style__galleryContainer1___25jQ9 {
-    height: 280px !important;
+  #style__galleryBigImage___HTRYl, .style__galleryContainer1___25jQ9, .style__galleryImage___6P_QQ {
+    height: 370px !important;
   }
 
   #style__carouselMainBelow___vpsrH {
